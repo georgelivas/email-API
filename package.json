@@ -1,0 +1,9 @@
+{
+  "name": "email-api",
+  "version": "1.0.0",
+  "description": "An API to send email from your node app.",
+  "main": "index.js",
+  "repository": "https://github.com/georgelivas/email-API",
+  "author": "George Livas",
+  "license": "MIT"
+}
